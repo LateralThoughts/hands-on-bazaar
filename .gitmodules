@@ -1,0 +1,12 @@
+[submodule "marmite-mahout"]
+	path = marmite-mahout
+	url = git@github.com:LateralThoughts/marmite-mahout.git
+[submodule "hands-on-spring-data"]
+	path = hands-on-spring-data
+	url = git@github.com:ericbottard/hands-on-spring-data.git
+[submodule "hands-on-cloudfoundry"]
+	path = hands-on-cloudfoundry
+	url = git@github.com:ericbottard/hands-on-cloudfoundry.git
+[submodule "hands-on-spring"]
+	path = hands-on-spring
+	url = git@github.com:fbiville/hands-on-spring.git
